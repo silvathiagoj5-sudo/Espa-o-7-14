@@ -23,3 +23,7 @@
 - Confirmar os serviços, benefícios e condições do Club 7 14.
 - As imagens de manicure na galeria são referências ilustrativas; substituir por fotografias oficiais da empresa quando disponíveis.
 - O recorte de capa é uma imagem do screenshot enviado, não o arquivo original em resolução máxima.
+
+
+## Atualização visual
+A imagem de fundo principal foi substituída por uma nova imagem de recepção em alta resolução, criada para combinar com a referência visual enviada. O arquivo está em `assets/espaco714_hero_alta_qualidade.jpg`.
